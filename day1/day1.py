@@ -4,7 +4,6 @@ Advent of code - day 1
 """
 
 import argparse
-import os
 import pathlib
 
 
@@ -23,9 +22,8 @@ def day1():
     assert args.top_k > 0, f"`top-k` needs to be larger than 0, got {args.top_k}!"
 
     # load the data
-    assert os.path.isfile(args.input_file_path), f"Invalid path to input data: " \
-                                                 f"{args.input_file_path}"
-    with open(args.input_file_path, 'r', encoding='utf-8') as file:
+    with open(pathlib.Path(__file__).parent.resolve().joinpath('input.txt'), 'r',
+              encoding='utf-8') as file:
         calory_lines = file.readlines()
 
     # sweep through the list and add the values per elf
