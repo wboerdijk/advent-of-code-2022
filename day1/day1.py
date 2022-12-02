@@ -9,14 +9,13 @@ import pathlib
 
 def day1():
     """
-    Prints the results for the two day1 riddles.
+    Prints the results for the two day 1 riddles.
     :return:
     """
     parser = argparse.ArgumentParser(description="Advent of code - day 1. Run "
-                                                 "`python day1 --top-k 1` for the first part, and"
-                                                 "`python day1.py --top-k 3` for the second part.")
-    parser.add_argument('--input-file-path', type=str,
-                        default=pathlib.Path(__file__).parent.resolve().joinpath('input.txt'))
+                                                 "`python day1/day1.py` for the first part, and "
+                                                 "`python day1/day1.py --top-k 3` "
+                                                 "for the second part.")
     parser.add_argument('--top-k', type=int, default=1)
     args = parser.parse_args()
     assert args.top_k > 0, f"`top-k` needs to be larger than 0, got {args.top_k}!"
