@@ -2,6 +2,7 @@
 
 [Advent of code 2022](https://adventofcode.com/2022), in python.
 
+Input text files obtained from the official site.
 First line always denotes the first part puzzle, the second line always the second part.
 
 ### day 1
