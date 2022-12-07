@@ -28,3 +28,15 @@ python day3/day3_part2.py
 python day4/day4.py
 python day4/day4.py --part-2
 ```
+
+### day 5
+```bash
+python day5/day5.py
+python day5/day5.py --part-2
+```
+
+### day 6
+```bash
+python day6/day6.py
+python day6/day6.py --part-2
+```
