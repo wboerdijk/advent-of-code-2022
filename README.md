@@ -40,3 +40,15 @@ python day5/day5.py --part-2
 python day6/day6.py
 python day6/day6.py --part-2
 ```
+
+### day 7
+```bash
+python day7/day7.py
+python day7/day7.py --part-2
+```
+
+### day 8
+```bash
+python day8/day8_part1.py
+python day8/day8_part2.py
+```
