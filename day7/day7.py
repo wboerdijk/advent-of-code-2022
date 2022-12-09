@@ -61,7 +61,10 @@ def day7():
     Prints the results for the two day 7 riddles.
     :return:
     """
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Advent of code - day 7. Run "
+                                                 "`python day7/day7.py` for the first part, "
+                                                 "and `python day7/day7.py --part-2` for the "
+                                                 "second part.")
     parser.add_argument('--part-2', default=False, action='store_true')
     args = parser.parse_args()
 
