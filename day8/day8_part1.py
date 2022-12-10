@@ -1,5 +1,5 @@
 """
-Advent of code - day 8
+Advent of code - day 8, part 1
 (c) Wout Boerdijk
 """
 
