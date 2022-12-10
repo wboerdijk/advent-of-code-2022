@@ -52,3 +52,9 @@ python day7/day7.py --part-2
 python day8/day8_part1.py
 python day8/day8_part2.py
 ```
+
+### day 9
+```bash
+python day9/day9.py  # add `--viz` for a visualization
+python day9/day9.py --part-2  # add `--viz` for a visualization
+```
