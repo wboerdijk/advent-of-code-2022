@@ -58,3 +58,9 @@ python day8/day8_part2.py
 python day9/day9.py  # add `--viz` for a visualization
 python day9/day9.py --part-2  # add `--viz` for a visualization
 ```
+
+### day 10
+```bash
+python day10/day10_part1.py
+python day10/day10_part2.py  # add `--with-white-spaces` for substituting the dots with a white space
+```
