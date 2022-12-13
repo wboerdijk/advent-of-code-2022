@@ -11,7 +11,7 @@ import cv2
 
 class Knot:
     """
-    Class representing a know.
+    Class representing a knot.
     """
     def __init__(self, parent=None, child=None):
         """
