@@ -64,3 +64,15 @@ python day9/day9.py --part-2  # add `--viz` for a visualization
 python day10/day10_part1.py
 python day10/day10_part2.py  # add `--with-white-spaces` for substituting the dots with a white space
 ```
+
+### day 11
+Note that I'm still having problems on the second part, will upload that when it's finished!
+```bash
+python day11/day11_part1.py
+```
+
+### day 12
+```bash
+python day12/day12.py
+python day12/day12.py --part-2
+```
