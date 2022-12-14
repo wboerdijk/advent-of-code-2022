@@ -76,3 +76,9 @@ python day11/day11_part1.py
 python day12/day12.py
 python day12/day12.py --part-2
 ```
+
+### day 13
+```bash
+python day13/day13.py
+python day13/day13.py --part-2
+```
