@@ -66,9 +66,9 @@ python day10/day10_part2.py  # add `--with-white-spaces` for substituting the do
 ```
 
 ### day 11
-Note that I'm still having problems on the second part, will upload that when it's finished!
 ```bash
-python day11/day11_part1.py
+python day11/day11.py
+python day11/day11.py --part-2
 ```
 
 ### day 12
@@ -81,4 +81,10 @@ python day12/day12.py --part-2
 ```bash
 python day13/day13.py
 python day13/day13.py --part-2
+```
+
+### day 14
+```bash
+python day14/day14.py  # add `--viz` for a visualization
+python day14/day14.py --part-2  # add `--viz` for a visualization
 ```
