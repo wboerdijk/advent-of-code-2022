@@ -88,3 +88,34 @@ python day13/day13.py --part-2
 python day14/day14.py  # add `--viz` for a visualization
 python day14/day14.py --part-2  # add `--viz` for a visualization
 ```
+
+### day 15
+```bash
+python day15/day15_part1.py
+python day15/day15_part2.py
+```
+
+### day 16
+Note: I'm still struggeling with day 16, will upload as soon as I've solved it!
+
+### day 17
+Note: I'm still struggeling with the second part of day 17. Will upload as soon as I've solved it!
+
+### day 18
+```bash
+python day18/day18.py
+python day18/day18.py --part-2
+```
+
+### day 19
+Note: I'm still struggeling with day 19, will upload as soon as I've solved it!
+
+### day 20
+Note: I'm still struggeling with day 20, will upload as soon as I've solved it!
+
+### day 21
+```bash
+python day21/day21.py
+python day21/day21.py --part-2
+```
+
