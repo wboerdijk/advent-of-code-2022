@@ -7,6 +7,19 @@ My user id: #2549190
 Input text files obtained from the official site.
 First line always denotes the first part puzzle, the second line always the second part.
 
+### missing riddles
+
+I am still struggeling with some of the riddles as I try to solve them without looking up help / possible solutions. I'll upload them as soon as I have them completed!
+
+- day 16
+- day 17, part 2
+- day 19
+- day 20
+- day 22, part 2
+- day 23
+- day 24
+- day 25
+
 ### day 1
 ```bash
 python day1/day1.py
@@ -97,11 +110,10 @@ python day15/day15_part1.py
 python day15/day15_part2.py
 ```
 
-### day 16
-Note: I'm still struggeling with day 16, will upload as soon as I've solved it!
-
 ### day 17
-Note: I'm still struggeling with the second part of day 17. Will upload as soon as I've solved it!
+```bash
+python day17/day17_part1.py  # add `--viz` for a visualization
+```
 
 ### day 18
 ```bash
@@ -109,15 +121,13 @@ python day18/day18.py
 python day18/day18.py --part-2
 ```
 
-### day 19
-Note: I'm still struggeling with day 19, will upload as soon as I've solved it!
-
-### day 20
-Note: I'm still struggeling with day 20, will upload as soon as I've solved it!
-
 ### day 21
 ```bash
 python day21/day21.py
 python day21/day21.py --part-2
 ```
 
+### day 22
+```bash
+python day22/day22_part1.py  # add `--viz` for a visualization
+```
